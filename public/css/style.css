@@ -1,0 +1,14 @@
+body{
+    background-color: palegoldenrod;
+}
+
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.centrer {
+    text-align: center;
+
+}
